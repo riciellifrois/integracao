@@ -1,0 +1,115 @@
+[
+{
+  "cliente": {
+    "idCliente": 1,
+    "nomeCliente": "Cliente 1",
+    "dddTelefone": 33,
+    "numTelefone": 55448877,
+    "dddCelular": 19,
+    "numCelular": 22556699,
+    "tipoPessoa": "F",
+    "cpfCnpj": "12365896587",
+    "email": "cliente1@gmail.com",
+    "endereco": "rua 1, numero 20",
+    "complemento": "casa",
+    "bairro": "centro",
+    "cep": "39888554",
+    "municipio": "Campinas",
+    "aceiteLGPD": true,
+    "tipoAceiteLGPD": "Ligação",
+    "dataAceiteLGPD": "2021-10-06T17:05:32.957Z"
+  },
+  "veiculo": {
+    "placa": "QNN4673",
+    "chassi": "12354789654",
+    "codMarca": 10,
+    "desMarca": "Nissan",
+    "codFamilia": 2,
+    "desFamilia": "Frontier",
+    "codModelo": 120,
+    "desModelo": "Frontier 4x4 At.",
+    "anoFabricacao": "2020",
+    "anoModelo": "2021",
+    "desCorExt": "Azul",
+    "ultimoKm": 10223,
+    "dataVenda": "2021-10-06T17:05:32.957Z",
+    "possuiContrato": "S"
+  }
+},
+{
+  "cliente": {
+    "idCliente": 2,
+    "nomeCliente": "Cliente 2",
+    "dddTelefone": 33,
+    "numTelefone": 55448877,
+    "dddCelular": 19,
+    "numCelular": 22556699,
+    "tipoPessoa": "F",
+    "cpfCnpj": "12365896587",
+    "email": "cliente2@gmail.com",
+    "endereco": "rua 2, numero 20",
+    "complemento": "casa",
+    "bairro": "centro",
+    "cep": "39888554",
+    "municipio": "Campinas",
+    "aceiteLGPD": true,
+    "tipoAceiteLGPD": "Ligação",
+    "dataAceiteLGPD": "2021-10-06T17:05:32.957Z"
+  },
+  "veiculo": {
+    "placa": "QNA4673",
+    "chassi": "546546855555",
+    "codMarca": 10,
+    "desMarca": "Nissan",
+    "codFamilia": 2,
+    "desFamilia": "Frontier",
+    "codModelo": 120,
+    "desModelo": "Frontier 4x4 At.",
+    "anoFabricacao": "2020",
+    "anoModelo": "2021",
+    "desCorExt": "Azul",
+    "ultimoKm": 10223,
+    "dataVenda": "2021-10-06T17:05:32.957Z",
+    "possuiContrato": "S"
+  }
+},
+{
+  "cliente": {
+    "idCliente": 3,
+    "nomeCliente": "Cliente 3",
+    "dddTelefone": 33,
+    "numTelefone": 55448877,
+    "dddCelular": 19,
+    "numCelular": 22556699,
+    "tipoPessoa": "F",
+    "cpfCnpj": "12365896587",
+    "email": "cliente3@gmail.com",
+    "endereco": "rua 3, numero 20",
+    "complemento": "casa",
+    "bairro": "centro",
+    "cep": "39888554",
+    "municipio": "Campinas",
+    "aceiteLGPD": true,
+    "tipoAceiteLGPD": "Ligação",
+    "dataAceiteLGPD": "2021-10-06T17:05:32.957Z"
+  },
+  "veiculo": {
+    "placa": "QNB4673",
+    "chassi": "11111132212",
+    "codMarca": 10,
+    "desMarca": "Nissan",
+    "codFamilia": 2,
+    "desFamilia": "Frontier",
+    "codModelo": 120,
+    "desModelo": "Frontier 4x4 At.",
+    "anoFabricacao": "2020",
+    "anoModelo": "2021",
+    "desCorExt": "Azul",
+    "ultimoKm": 10223,
+    "dataVenda": "2021-10-06T17:05:32.957Z",
+    "possuiContrato": "S"
+  }
+}
+]
+
+
