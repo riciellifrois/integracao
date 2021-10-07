@@ -110,6 +110,110 @@
     "possuiContrato": "S"
   }
 }
+],
+ "agendamentos":[
+  {
+    "agenda": {
+      "codAgendamento": 1000,
+      "codConsultor": 10,
+      "nomeConsultor": "Thais",
+      "dataAgendamento": "2021-10-07T13:44:19.303Z",
+      "situacao": "AB",
+      "numOs": 0,
+      "dataConfirmacao": "2021-10-07T13:44:19.303Z",
+      "km": 20000
+    },
+    "veiculo": {
+      "placa": "QNN4673",
+      "chassi": "231568445545",
+      "codMarca": 14,
+      "desMarca": "Nissan",
+      "codFamilia": 10,
+      "desFamilia": "Frontier",
+      "codModelo": 255,
+      "desModelo": "Frontier 4x2 MT",
+      "anoFabricacao": "2021",
+      "anoModelo": "2021",
+      "desCorExt": "Vermelho",
+      "ultimoKm": 11000,
+      "dataVenda": "2021-10-07T13:44:19.303Z",
+      "possuiContrato": "S"
+    },
+    "cliente": {
+      "idCliente": 54,
+      "nomeCliente": "Carlos",
+      "dddTelefone": 19,
+      "numTelefone": 11111111,
+      "dddCelular": 19,
+      "numCelular": 222222222,
+      "tipoPessoa": "F",
+      "cpfCnpj": "12555555555",
+      "email": "carlos@gmail.com",
+      "endereco": "rua teste 1, n. 1212",
+      "complemento": "casa",
+      "bairro": "centro",
+      "cep": "44444444",
+      "municipio": "campinas",
+      "aceiteLGPD": true,
+      "tipoAceiteLGPD": "ligacao",
+      "dataAceiteLGPD": "2021-10-07T13:44:19.303Z"
+    },
+    "orcamento": {
+      "numOrcamento": 0,
+      "dataOrcamento": "2021-10-07T13:44:19.303Z"
+    }
+  },
+  {
+    "agenda": {
+      "codAgendamento": 1001,
+      "codConsultor": 11,
+      "nomeConsultor": "Ana Paula",
+      "dataAgendamento": "2021-10-07T13:44:19.303Z",
+      "situacao": "AB",
+      "numOs": 0,
+      "dataConfirmacao": "2021-10-07T13:44:19.303Z",
+      "km": 50000
+    },
+    "veiculo": {
+      "placa": "QNA4673",
+      "chassi": "2344555485",
+      "codMarca": 14,
+      "desMarca": "Nissan",
+      "codFamilia": 10,
+      "desFamilia": "Frontier",
+      "codModelo": 258,
+      "desModelo": "Frontier 4x4 MT",
+      "anoFabricacao": "2021",
+      "anoModelo": "2021",
+      "desCorExt": "Vermelho",
+      "ultimoKm": 41000,
+      "dataVenda": "2021-10-07T13:44:19.303Z",
+      "possuiContrato": "S"
+    },
+    "cliente": {
+      "idCliente": 560,
+      "nomeCliente": "Ailton",
+      "dddTelefone": 19,
+      "numTelefone": 55555555,
+      "dddCelular": 19,
+      "numCelular": 666666666,
+      "tipoPessoa": "F",
+      "cpfCnpj": "1255555545",
+      "email": "ailton@gmail.com",
+      "endereco": "rua teste 1, n. 1212",
+      "complemento": "casa",
+      "bairro": "centro",
+      "cep": "44444444",
+      "municipio": "campinas",
+      "aceiteLGPD": true,
+      "tipoAceiteLGPD": "ligacao",
+      "dataAceiteLGPD": "2021-10-07T13:44:19.303Z"
+    },
+    "orcamento": {
+      "numOrcamento": 0,
+      "dataOrcamento": "2021-10-07T13:44:19.303Z"
+    }
+  }
 ]
 }
 
