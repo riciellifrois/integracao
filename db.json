@@ -172,7 +172,36 @@
       "situacao": "AB",
       "numOs": 0,
       "dataConfirmacao": "2021-10-07T13:44:19.303Z",
-      "km": 50000
+      "km": 50000,
+      "reclamacao": [
+      {
+        "codReclamacao": 123,
+        "desReclamacao": "Barulho na roda",
+        "servicos": [
+          {
+            "codServico": "TBORR",
+            "descricao": "Troca da borracha da porta",
+            "precoVenda": 120.2,
+            "tempoPadrao": 1.5,
+            "produtos": [
+              {
+                "codProduto": 123456,
+                "descricao": "Borracha da porta",
+                "codFornecedor": 9,
+                "nomeFornecedor": "Fabrica",
+                "unidade": "UN",
+                "precoPublico": 268.55,
+                "precoGarantia": 200.00,
+                "precoSugerido": 250.00,
+                "precoCusto": 210.00,
+                "precoCustoReposicao": 210.00,
+                "quantidade": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
     },
     "veiculo": {
       "placa": "QNA4673",
