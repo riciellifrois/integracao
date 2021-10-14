@@ -244,5 +244,13 @@
     }
   }
 ]
+},
+{ "consultores" : [
+  {
+    "codUsuario": 0,
+    "nome": "Consultor Samuel",
+    "cpf": 0
+  }
+]
 }
 
