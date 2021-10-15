@@ -133,6 +133,16 @@
     "estoque": 100
   }
    ],
+ "servicos": [
+  {
+    "codServico": "1",
+    "descricaoServico": "Teste Servico",
+    "codProduto": 0,
+    "codModelo": 0,
+    "descricaoModelo": "teste modelo",
+    "tempo": 1
+  }
+   ],
  "agendamentos":[
   {
     "agenda": {
