@@ -118,6 +118,21 @@
     "cpf": 0
   }
 ],
+ "produtos":[
+  {
+    "codProduto": "1",
+    "partNumber": "1",
+    "desProduto": "teste",
+    "codFornecedor": 0,
+    "nomeFornecedor": "teste",
+    "unidade": "1",
+    "precoPublico": 100,
+    "precoGarantia": 10,
+    "precoCusto": 100,
+    "precoCustoRepos": 100,
+    "estoque": 100
+  }
+   ],
  "agendamentos":[
   {
     "agenda": {
