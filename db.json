@@ -146,6 +146,19 @@
     "estoque": 100
   },
   {
+    "codProduto": "00002336",
+    "partNumber": "00002326",
+    "desProduto": "produto 00002336",
+    "codFornecedor": 2,
+    "nomeFornecedor": "teste",
+    "unidade": "1",
+    "precoPublico": 15,
+    "precoGarantia": 15,
+    "precoCusto": 7,
+    "precoCustoRepos": 7,
+    "estoque": 100
+  },
+  {
     "codProduto": "00002326",
     "partNumber": "00002326",
     "desProduto": "produto 00002326",
